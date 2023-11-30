@@ -1,0 +1,8 @@
+# robots.txt generated at https://www.sojson.com/robots/
+Disallow:/admin/
+Disallow:/include/
+Disallow:/assets/
+Disallow:/install/
+Disallow:/pay/
+User-agent: *
+Disallow:

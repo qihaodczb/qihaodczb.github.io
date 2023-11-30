@@ -1,0 +1,5 @@
+注：这是一个非必要的伪静态，可选择设置也可以不设置，用于自定义404页面
+Nginx伪静态：
+error_page 404 /404.php;
+Apache伪静态：
+ErrorDocument 404 /404.php
